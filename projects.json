@@ -1,0 +1,72 @@
+[
+  {
+    "sequence": 1,
+    "project": "Operator Tracking System",
+    "color": "#2563eb",
+    "servers": {
+      "OTS Server-1": "http://172.27.1.119:3006/login.html",
+      "OTS Server-2": "http://172.27.1.124:3006/login.html",
+      "OTS Server-3": "http://172.27.1.135:3006/login.html"
+    }
+  },
+  {
+    "sequence": 2,
+    "project": "MIS & Hourly",
+    "color": "#059669",
+    "servers": {
+      "MIS & Hourly server-1": "http://172.27.1.119:5058/",
+      "MIS & Hourly server-2": "http://172.27.1.124:5058",
+      "Hourly & MIS Server-3": "http://172.27.1.135:5058"
+    }
+  },
+  {
+    "sequence": 3,
+    "project": "Locker Tracker",
+    "color": "#0891b2",
+    "servers": {
+      "Locker Tracker": "http://172.27.1.119:5004/",
+      "Locker Server-2": "http://172.27.1.124:5004/"
+    }
+  },
+  {
+    "sequence": 4,
+    "project": "File Sharing",
+    "color": "#7c3aed",
+    "servers": {
+      "File Sharing": "http://172.27.1.119:5002/"
+    }
+  },
+  {
+    "sequence": 5,
+    "project": "QR print",
+    "color": "#0891b2",
+    "servers": {
+      "QR print": "http://172.27.1.119:5002/konica-studio"
+    }
+  },
+  {
+    "sequence": 6,
+    "project": "Server Advisory",
+    "color": "#7c3aed",
+    "servers": {
+      "Server Advisory": "http://172.27.1.119:3006/server_notice.html"
+    }
+  },
+  {
+    "sequence": 7,
+    "project": "Carrier Entry via mobile",
+    "color": "#0891b2",
+    "servers": {
+      "Carrier Entry via mobile": "http://172.27.1.124:5006/",
+      "Carrier Entry via mobile-2": "http://172.27.1.119:5006/"
+    }
+  },
+  {
+    "sequence": 8,
+    "project": "Print Documents in Printer Area",
+    "color": "#7c3aed",
+    "servers": {
+      "Print Documents in Printer Area": "http://172.27.1.119:5002/documents"
+    }
+  }
+]
