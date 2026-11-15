@@ -68,5 +68,25 @@
     "servers": {
       "Print Documents in Printer Area": "http://172.27.1.119:5002/documents"
     }
+  },
+  {
+    "sequence": 9,
+    "project": "D Drive Share",
+    "color": "#d97706",
+    "servers": {
+      "Server 1": "http://172.27.1.119:5001/",
+      "Server 2": "http://172.27.1.124:5001/",
+      "Server 3": "http://172.27.1.135:5001/"
+    }
+  },
+  {
+    "sequence": 10,
+    "project": "Ultimate Server Manager",
+    "color": "#4f46e5",
+    "servers": {
+      "Server 1": "http://172.27.1.119:3001/",
+      "Server 2": "http://172.27.1.124:3001/",
+      "Server 3": "http://172.27.1.135:3001/"
+    }
   }
 ]
